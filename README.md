@@ -4,7 +4,7 @@ I'm Ravi from South London . I'm aspiring junior front end or fullstack develope
 Skills: Node Js/ REACT / JS / HTML / CSS/Bootsrap/SQL
 
 - 🔭 I’m currently working on Becoming a more well rounded developer 
-- 🌱 I’m currently learning Node Js 
+- 🌱 I’m currently learning mongoDB 
 - 🤔 I’m looking for help with Getting my first junior role 
 - 📫 How to reach me: rgordz460@outook.com LinkedIN: Ravi Gordon 
 - 😄 Pronouns: He/Him 
