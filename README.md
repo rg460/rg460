@@ -35,22 +35,17 @@ Skills: Node Js/ REACT / JS / HTML / CSS/Bootsrap/SQL
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+![Profile views](https://gpvc.arturio.dev/rg460)
+
 ![Ravi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rg460&show_icons=true&theme=radical)
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rg460)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rg460)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rg460)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rg460)  
-
- 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rg460)  
 
-![Profile views](https://gpvc.arturio.dev/rg460)  
+  
