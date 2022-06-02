@@ -1,5 +1,4 @@
-
-   
+  
 <h1 align="center">Hi 👋, I'm Ravi</h1><a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 <h3>Junior Fullstack || Front-End || UI Developer</h3>
 I'm Ravi from South London . I'm aspiring junior front end or fullstack developer . Looking for my first opportunity in tech . I am equally passionate about both design and problem solving and enjoy comibining the two together . Looking to provide a better life for myself and my family through code
@@ -47,7 +46,6 @@ I'm Ravi from South London . I'm aspiring junior front end or fullstack develope
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rg460)]
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rg460)](https://github.com/ryo-ma/github-profile-trophy)
-
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rg460)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rg460)  
