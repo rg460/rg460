@@ -43,7 +43,7 @@ I'm Ravi from South London . I'm aspiring junior front end or fullstack develope
 ![Profile views](https://gpvc.arturio.dev/rg460)
 
 ![Ravi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rg460&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rg460)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rg460)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rg460)](https://github.com/ryo-ma/github-profile-trophy)
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rg460)  
