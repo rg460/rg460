@@ -1,8 +1,6 @@
-
+<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 #### Junior Fullstack || Front-End || UI Developer
 I'm Ravi from South London . I'm aspiring junior front end or fullstack developer . Looking for my first opportunity in tech . I am equally passionate about both design and problem solving and enjoy comibining the two together . Looking to provide a better life for myself and my family through code
-
-Skills: Node Js/ REACT / JS / HTML / CSS/Bootsrap/SQL
 
 - 🔭 I’m currently working on Becoming a more well rounded developer 
 - 🌱 I’m currently learning mongoDB 
@@ -23,7 +21,6 @@ Skills: Node Js/ REACT / JS / HTML / CSS/Bootsrap/SQL
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
@@ -38,9 +35,7 @@ Skills: Node Js/ REACT / JS / HTML / CSS/Bootsrap/SQL
 ![Profile views](https://gpvc.arturio.dev/rg460)
 
 ![Ravi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rg460&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rg460)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rg460)]
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rg460)](https://github.com/ryo-ma/github-profile-trophy)
 
