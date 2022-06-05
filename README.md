@@ -1,5 +1,5 @@
   
-<h1 align="center">Hi 👋, I'm Ravi</h1><a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
+<h1 align="center">Hi 👋, I'm Ravi</h1>
 <h3>Junior Fullstack || Front-End || UI Developer</h3>
 I'm Ravi from South London . I'm aspiring junior front end or fullstack developer . Looking for my first opportunity in tech . I am equally passionate about both design and problem solving and enjoy comibining the two together . Looking to provide a better life for myself and my family through code
 
