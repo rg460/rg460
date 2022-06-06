@@ -49,7 +49,7 @@ I'm Ravi from South London . I'm aspiring junior front end or fullstack develope
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rg460)  
 [![trophy](https://github-profile-trophy.vercel.app/?username=rg460)](https://github.com/ryo-ma/github-profile-trophy)]
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rg460)]
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rg460)
 
 
 
