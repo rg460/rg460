@@ -7,7 +7,6 @@ I'm Ravi from South London . I'm aspiring junior front end or fullstack develope
 - 🌱 I’m currently going over and solidifying React concepts
 - 🤔 I’m looking for help with Getting my first junior role 
 - 📫 How to reach me: rgordz460@outook.com LinkedIN: Ravi Gordon 
-- 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I am from a Carribbean and Indian Background
 
 ### Languages
