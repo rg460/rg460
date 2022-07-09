@@ -1,7 +1,7 @@
   
 <h1 align="center">Hi 👋, I'm Ravi</h1>
 <h3 align="center">Junior Fullstack || Front-End || UI Developer</h3>
-I'm Ravi from South London . I'm aspiring junior front end or fullstack developer . Looking for my first opportunity in tech . I am equally passionate about both design and problem solving and enjoy comibining the two together . Looking to provide a better life for myself and my family through code.
+I'm Ravi from South London . I'm aspiring junior front end or fullstack developer . Looking for my first opportunity in tech . I am equally passionate about both design and problem solving! and enjoy comibining the two together . 
 
 - 🔭 I’m currently working on Becoming a more well rounded developer 
 - 🌱 I’m currently learning Python
