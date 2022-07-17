@@ -4,7 +4,7 @@
 I'm Ravi from South London . I'm aspiring junior front end or fullstack developer . Looking for my first opportunity in tech . I am equally passionate about both design and problem solving! and enjoy comibining the two together . 
 
 - 🔭 I’m currently working on Becoming a more well rounded developer 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and UX Design
 - 🤔 I’m looking for help with Getting my first junior role 
 - 📫 How to reach me: rgordz460@outook.com LinkedIN: Ravi Gordon 
 - ⚡ Fun fact: I am from a Carribbean and Indian Background
